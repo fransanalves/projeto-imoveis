@@ -1,0 +1,22 @@
+h1 {
+  color: #141499;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #c2bfbf;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px;
+  margin-left: 10px;
+  border: 1px solid #c2bfbf;
+  border-radius: 6px;
+  color: #636262;
+}
+
+img {
+  max-width: 100%;
+  margin-top: 10px;
+}
